@@ -1,4 +1,4 @@
-# Node-Todo-App
+# Node-Todo-Application
 
 Run these commands:
 
